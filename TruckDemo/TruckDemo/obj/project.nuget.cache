@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AFV2T4+szR7dHIR0IFlu9+5YzqA4vJQ3ZOFZb96BWKFtjyBoWdEnPXsD+NSsmTOSBy/WcyI3J5HLBzK7Y8fsog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\HomeProjects\\TruckDemo\\TruckDemo\\TruckDemo\\TruckDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
