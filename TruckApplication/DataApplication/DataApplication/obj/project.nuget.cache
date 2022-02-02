@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "uWrZ0cyNZ3NqDJWJQx3lzJtlTlIImMnLGb+ASJo4aFDDvKeiOR26jO7Odnf0GudG2DmcsK+ahbhoqkG63YlLfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\HomeProjects\\TruckDemo\\TruckApplication\\DataApplication\\DataApplication\\DataApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
